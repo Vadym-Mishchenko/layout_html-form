@@ -1,1 +1,25 @@
 /* styles go here */
+
+.form-field {
+  display: block;
+}
+
+body {
+  margin: 8px;
+}
+
+.form__fieldset {
+  margin: 2px 2px 20px;
+}
+
+.form_set {
+  padding: 0 0 10px;
+}
+
+.form_set:last-child {
+  padding: 0;
+}
+
+.form__color {
+  padding-top: 10px;
+}
